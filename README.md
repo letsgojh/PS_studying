@@ -3,6 +3,11 @@
 - 업로드한 BOJ, Programmers, LeetCode 문제를 풀고 풀이과정을 공유하며 성장하는 것을 목표로 한다.
 - 1주일에 각자 3문제씩 업로드하며, 총 3문제를 푼다.(추가적인 문제 업로드 가능)
 - 풀이 소스코드와 풀이를 설명할 readme 파일을 함께 업로드한다.
+- baaaarking dog님이 만든 문제집과 강의 영상을 참고한다.
+
+- 문제집 링크 : https://github.com/letsgojh/basic-algo-lecture/blob/master/workbook.md
+
+- 강으 링크 : https://www.youtube.com/watch?v=LcOIobH7ues&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=1
 
 
 ## Folder structure
