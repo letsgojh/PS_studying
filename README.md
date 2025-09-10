@@ -7,23 +7,24 @@
 
 - 문제집 링크 : https://github.com/letsgojh/basic-algo-lecture/blob/master/workbook.md
 
-- 강으 링크 : https://www.youtube.com/watch?v=LcOIobH7ues&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=1
+- 강의 링크 : https://www.youtube.com/watch?v=LcOIobH7ues&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=1
 
 
 ## Folder structure
 
-`[n주차]/[platform_문제 번호]/[이름]` 구조를 사용한다.
+`[문제유형]/[주차_이름]/[플랫폼이름_문제번호]` 구조를 사용한다.
 
 ```
-├───BFS/          #문제유형
-│   ├───BOJ_11724/    #문제 번호
-│   │   ├───src/        #이름
-│   │   │       11724.java    #풀이 소스 코드
-│   │   │       README.md    #풀이 설명
-│   │   ├───lib/
-│   │   ├───.vscode/
-│   │   │   
-|   |   | ...
+├─.idea
+└─BFS #문제유형
+    ├─Week1_YJH #주차_이름
+    │  ├─BOJ_1926 #플랫폼이름_문제번호
+    │  ├─BOJ_2178
+    │  │  ├─.vscode
+    │  │  ├─src
+    │  │  │  ├─ Main.java #문제풀이 소스코드
+    │  │  │  ├─ README.md #문제풀이 설명
+
 ```
 
 
