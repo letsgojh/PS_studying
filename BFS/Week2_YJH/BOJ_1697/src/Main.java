@@ -1,3 +1,5 @@
+package BFS.Week2_YJH.BOJ_1697.src;
+
 import java.util.Scanner;
 import java.util.Queue;
 import java.util.Arrays;
