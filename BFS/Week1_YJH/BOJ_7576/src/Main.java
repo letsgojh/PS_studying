@@ -1,3 +1,5 @@
+package BFS.Week1_YJH.BOJ_7576.src;
+
 import java.util.Scanner;
 import java.util.Arrays;
 import java.util.LinkedList;

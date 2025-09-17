@@ -1,9 +1,9 @@
+package BFS.Week3_YJH.BOJ_10026.src;
+
 import java.util.Scanner;
 import java.util.Queue;
 import java.util.Arrays;
 import java.util.LinkedList;
-
-
 
 public class Main {
 
