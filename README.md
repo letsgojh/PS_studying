@@ -36,7 +36,7 @@
   > ex) KDH-BOJ-10828.cpp, KDH-LEET-29.cpp, KDH-PROG-전화번호목록.cpp
 
 #### Branch naming
-`{NAME}/{create || modify || ...}-{platform}-{(문제번호)}`
+`{NAME}/{create || modify || ...}-{주차}`
   > ex) KDH/create-boj-2126
 
 #### Commit message
