@@ -1,3 +1,4 @@
+package STACK.Week3_PJM.BOJ_2493;
 import java.io.*;
 import java.util.Stack;
 import java.util.StringTokenizer;
