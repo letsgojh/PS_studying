@@ -1,0 +1,16 @@
+## 📌 PR 제목
+- create Week3
+
+## 📝 작업 내용
+- STACK 탑(BOJ-2493) 골드 5 문제 Solve
+
+## 실행 방법
+- BOJ_문제번호 디렉토리 위치기준
+₩₩₩
+javac Main.java
+java Main
+₩₩₩
+## ✅ 
+- [O] 코드 빌드 확인
+- [O] 테스트 통과
+- [ ] 리뷰 반영

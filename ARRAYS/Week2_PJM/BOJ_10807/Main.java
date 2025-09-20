@@ -16,9 +16,6 @@ public class Main {
     }
     bw.write(answer+"");
 
-
-
-
     br.close();
     bw.close();
   }
