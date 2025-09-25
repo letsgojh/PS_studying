@@ -1,3 +1,5 @@
+package BASIC.Week1_PJM.BOJ_2753;
+
 import java.io.*;
 public class Main {
   public static void main(String[] args) throws Exception{

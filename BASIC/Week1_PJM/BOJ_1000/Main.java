@@ -1,3 +1,5 @@
+package BASIC.Week1_PJM.BOJ_1000;
+
 import java.util.Scanner;
 
 public class Main{

@@ -1,3 +1,5 @@
+package BASIC.Week1_PJM.BOJ_10869;
+
 import java.io.*;
 
 public class Main {
