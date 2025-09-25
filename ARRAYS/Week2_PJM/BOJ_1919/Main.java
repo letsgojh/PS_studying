@@ -1,3 +1,4 @@
+package ARRAYS.Week2_PJM.BOJ_1919;
 import java.io.*;
 
 public class Main {

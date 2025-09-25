@@ -1,3 +1,5 @@
+package ARRAYS.Week2_PJM.BOJ_2577;
+
 import java.io.*;
 public class Main {
   public static void main(String[] args) throws Exception{

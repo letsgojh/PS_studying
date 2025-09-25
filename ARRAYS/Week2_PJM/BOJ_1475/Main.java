@@ -1,3 +1,5 @@
+package ARRAYS.Week2_PJM.BOJ_1475;
+
 import java.io.*;
 
 public class Main {

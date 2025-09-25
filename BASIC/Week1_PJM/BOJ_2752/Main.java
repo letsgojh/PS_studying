@@ -1,3 +1,6 @@
+package BASIC.Week1_PJM.BOJ_2752;
+
+
 import java.io.*;
 import java.util.StringTokenizer;
 import java.util.Arrays;

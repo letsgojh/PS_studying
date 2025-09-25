@@ -1,3 +1,5 @@
+package ARRAYS.Week2_PJM.BOJ_13300;
+
 import java.io.*;
 import java.util.StringTokenizer;
 public class Main {
