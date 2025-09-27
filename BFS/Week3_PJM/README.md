@@ -5,6 +5,7 @@
 - BFS/Week3_PJM 생성
 - BOJ_2468 안전영역 Solve
 - BOJ_5014 스타트링크 Solve
+- BOJ_6593 상범빌딩 Solve
 
 ## 실행 방법
 - BOJ_문제번호 디렉토리 위치기준
