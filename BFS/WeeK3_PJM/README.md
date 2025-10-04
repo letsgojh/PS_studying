@@ -1,5 +1,5 @@
 ## 📌 PR 제목
-- create Week4
+- create Week3
 
 ## 📝 작업 내용
 - STACK 탑(BOJ-2493) 골드 5 문제 Solve
