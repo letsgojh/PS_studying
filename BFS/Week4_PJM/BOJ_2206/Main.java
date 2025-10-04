@@ -1,3 +1,4 @@
+package BFS.Week4_PJM.BOJ_2206;
 import java.io.*;
 import java.util.LinkedList;
 import java.util.Queue;
