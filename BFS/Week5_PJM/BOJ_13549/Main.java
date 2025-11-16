@@ -1,4 +1,4 @@
-package BFS.Week6_PJM.BOJ_13549;
+package BFS.Week5_PJM.BOJ_13549;
 import java.io.*;
 import java.util.ArrayDeque;
 import java.util.Arrays;
