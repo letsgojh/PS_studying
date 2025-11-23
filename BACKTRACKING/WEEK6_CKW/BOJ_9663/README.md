@@ -1,4 +1,4 @@
-# 9663 : N-Queens (골드 5)
+# 9663 : N-Queens (골드 4)
 ## 코드 설명
 
 1. board를 1차원 배열로 생성 (board[a]=b -> a:row, b:col)
